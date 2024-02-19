@@ -1,0 +1,4 @@
+webApp/node_modules/*
+erc-network/organizations/ordererOrganizations/*
+erc-network/organizations/peerOrganizations/*
+chaincode/erc20token/node_modules/*
